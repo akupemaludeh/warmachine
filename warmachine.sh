@@ -5,5 +5,5 @@ chmod +x dnila
 
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.47/lolMiner_v1.47_Lin64.tar.gz
 tar -xvf lolMiner_v1.47_Lin64.tar.gz
-mv /content/1.4.7/lolMiner /content/elol
+mv /content/1.47/lolMiner /content/elol
 chmod +x elol
